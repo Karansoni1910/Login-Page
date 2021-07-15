@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  margin-top: 0;
+  background: linear-gradient(to bottom right,blue,lightblue);
+  justify-content: center;
+  align-items: center;
+}
